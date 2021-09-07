@@ -12,7 +12,7 @@ academic honesty among my students. If you want access give me a ring and I can 
 
 _Projects are presented in reverse chronological order_
 
-#### Screen Ahead Rx - A Machine Learning Modedl to Predict Cancer Drug Efficacy
+#### Screen Ahead Rx - A Machine Learning Model to Predict Cancer Drug Efficacy
 
 >**Course**: Capstone Project
 > 
