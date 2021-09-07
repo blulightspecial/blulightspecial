@@ -91,8 +91,8 @@ _Projects are presented in reverse chronological order_
 >
 >**Links**: 
 >- [Final Report](./w241_Project.pdf)
->- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1ezuI5FFPCP6neLg1NRUvQ4TylhuIQDgZHfOz3mX6-98/edit#))
->- [Experiment Pre-Analysis Plan](https://docs.google.com/document/d/1_tDuQ2_L5pPtFi0em-3a_iWRQRrDG4SoeYz36oh_RxQ/edit#))
+>- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1ezuI5FFPCP6neLg1NRUvQ4TylhuIQDgZHfOz3mX6-98/edit#)
+>- [Experiment Pre-Analysis Plan](https://docs.google.com/document/d/1_tDuQ2_L5pPtFi0em-3a_iWRQRrDG4SoeYz36oh_RxQ/edit#)
 
 #### Forest Tree Cover Prediction Model
 
