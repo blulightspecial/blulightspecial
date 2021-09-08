@@ -25,10 +25,10 @@ _Projects are presented in reverse chronological order_
 >**Technologies**: Python, Pandas sklearn, tensorflow, Keras
 > 
 >**Links**:
->- Project Website hosted on iSchool
+>- [Project Website hosted on iSchool](https://www.ischool.berkeley.edu/projects/2021/screen-ahead-rx)
 >- Zoom Recording of Final Presentation
->- Final Presentation Slide Deck
->- Medium Article by the UC Berkeley iSchool
+>- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1iSmRNzGgXf-uUaatu_um-eMXvbxovjvRytBucgmaupg/edit?usp=sharing)
+>- [Medium Article by the UC Berkeley iSchool](https://medium.com/berkeleyischool/project-uses-machine-learning-to-predict-cancer-drug-efficacy-4dadef1f8ac)
 
 #### A Deep Learning Model to Identify Rhinos from Drone Video
 
@@ -42,9 +42,9 @@ _Projects are presented in reverse chronological order_
 >**Technologies**: Python, Pandas, MQTT, Flask, YOLOv5, PyTorch
 > 
 >**Links**:
->- Project Final Report White Paper 
->- Final Presentation Slide Deck
->- Blog Post on the Project from WildTracks
+>- [Project Final Report White Paper](./w251_Project.pdf) 
+>- [Final Presentation Slide Deck](https://docs.google.com/spreadsheets/d/1QbOKtc-26bgDM_1j__oyO2pCDLuw4h7A2gqcthYPmN4/edit?skip_itp2_check=true#gid=0)
+>- [Blog Post on the Project from WildTracks](https://wildtrack.org/blog/)
 
 #### Seattle Transit Connectivity Visualization
 
@@ -59,9 +59,9 @@ _Projects are presented in reverse chronological order_
 >**Technologies**: Python, Altair, Pandas, Tableau
 > 
 >**Links**:
->- Project Website hosted on iSchool
->- Tableau Public Visualization
->- Final Presentation Slide Deck
+>- [Project Website hosted on iSchool](https://www.ischool.berkeley.edu/projects/2021/local-transit-explorer-tool)
+>- [Tableau Public Visualization](https://public.tableau.com/app/profile/luis.bochner/viz/w209_final_Seattle_transit_16180777570820/AltViz) - [Alternative Link](https://public.tableau.com/views/w209_final_Seattle_transit_16180777570820/AltViz?:language=en-US&:display_count=n&:origin=viz_share_link)
+>- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1S0KLkbkrNDZ1bJL_DpLp0C_WzFVYfQM4YNAXTMqxq2c/edit?usp=sharing)
 
 #### Machine Learning Model to Predict Domestic US Flight Delays
 
@@ -75,8 +75,8 @@ _Projects are presented in reverse chronological order_
 >**Technologies**: Python, DataBricks, Parquet, HDFS, PySpark
 > 
 >**Links**:
->- Final Report
->- Final Presentation Slide Deck
+>- [Final Project Notebook](./w261_Project_Notebook.ipynb)
+>- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1ysKMTZ2oNc-V1mGM7UaNlF-tOwEizasFbi2A5zdwqDE/edit?usp=sharing)
 
 #### Randomized Control Trial Testing the Effectiveness of Date Picker Widgets
 
