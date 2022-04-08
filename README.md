@@ -12,7 +12,9 @@ academic honesty among my students. If you want access give me a ring and I can 
 
 _Projects are presented in reverse chronological order_
 
-#### Screen Ahead Rx - A Machine Learning Model to Predict Cancer Drug Efficacy
+
+<details closed>
+  <summary><b>Screen Ahead Rx - A Machine Learning Model to Predict Cancer Drug Efficacy</b></summary>
 
 >**Course**: Capstone Project
 > 
@@ -30,7 +32,10 @@ _Projects are presented in reverse chronological order_
 >- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1iSmRNzGgXf-uUaatu_um-eMXvbxovjvRytBucgmaupg/edit?usp=sharing)
 >- [Medium Article by the UC Berkeley iSchool](https://medium.com/berkeleyischool/project-uses-machine-learning-to-predict-cancer-drug-efficacy-4dadef1f8ac)
 
-#### A Deep Learning Model to Identify Rhinos from Drone Video
+</details>
+  
+<details open>
+  <summary><b>A Deep Learning Model to Identify Rhinos from Drone Video</b></summary>
 
 >**Course**: Deep Learning in the Cloud and on the Edge
 > 
@@ -46,7 +51,10 @@ _Projects are presented in reverse chronological order_
 >- [Final Presentation Slide Deck](https://docs.google.com/spreadsheets/d/1QbOKtc-26bgDM_1j__oyO2pCDLuw4h7A2gqcthYPmN4/edit?skip_itp2_check=true#gid=0)
 >- [Blog Post on the Project from WildTracks](https://wildtrack.org/blog/)
 
-#### Seattle Transit Connectivity Visualization
+</details>
+  
+<details closed>
+  <summary><b>Seattle Transit Connectivity Visualization</b></summary>
 
 >**Course**: Data Visualization
 > 
@@ -63,7 +71,10 @@ _Projects are presented in reverse chronological order_
 >- [Tableau Public Visualization](https://public.tableau.com/app/profile/luis.bochner/viz/w209_final_Seattle_transit_16180777570820/AltViz) - [Alternative Link](https://public.tableau.com/views/w209_final_Seattle_transit_16180777570820/AltViz?:language=en-US&:display_count=n&:origin=viz_share_link)
 >- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1S0KLkbkrNDZ1bJL_DpLp0C_WzFVYfQM4YNAXTMqxq2c/edit?usp=sharing)
 
-#### Machine Learning Model to Predict Domestic US Flight Delays
+</details>
+  
+<details closed>
+  <summary><b>Machine Learning Model to Predict Domestic US Flight Delays</b></summary>
 
 >**Course**: Machine Learning at Scale
 > 
@@ -78,7 +89,10 @@ _Projects are presented in reverse chronological order_
 >- [Final Project Notebook](./w261_Project_Notebook.ipynb)
 >- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1ysKMTZ2oNc-V1mGM7UaNlF-tOwEizasFbi2A5zdwqDE/edit?usp=sharing)
 
-#### Randomized Control Trial Testing the Effectiveness of Date Picker Widgets
+</details>
+  
+<details closed>
+  <summary><b>Randomized Control Trial Testing the Effectiveness of Date Picker Widgets</b></summary>
 
 >**Course**: Experiments and Causality
 >
@@ -94,7 +108,10 @@ _Projects are presented in reverse chronological order_
 >- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1ezuI5FFPCP6neLg1NRUvQ4TylhuIQDgZHfOz3mX6-98/edit#)
 >- [Experiment Pre-Analysis Plan](https://docs.google.com/document/d/1_tDuQ2_L5pPtFi0em-3a_iWRQRrDG4SoeYz36oh_RxQ/edit#)
 
-#### Forest Tree Cover Prediction Model
+</details>
+  
+<details closed>
+  <summary><b>Forest Tree Cover Prediction Model</b></summary>
 
 >**Course**: Introduction to Machine Learning _w207_
 >
@@ -109,9 +126,11 @@ _Projects are presented in reverse chronological order_
 >- [Github Repository](https://github.com/blulightspecial/mids207-final)
 >- [Final Presentation Slide Deck](https://docs.google.com/presentation/d/1dMx_PfZBMRnDXwnIyE50zNRD70N-VKzRA0ZsEW-s_Po/edit?usp=sharing)
 
-####
 
-#### An End to End Data Collection Pipeline
+</details>
+  
+<details closed>
+  <summary><b>An End to End Data Collection Pipeline</b></summary>
 
 >**Course**: Introduction to Data Engineering _w205_
 >
@@ -125,7 +144,11 @@ _Projects are presented in reverse chronological order_
 >**Links**: 
 >- [Final Report](./w205_Project.pdf) _Rough version, final was lost._ 
 
-#### Statistical Predictors of COVID Spread
+  
+</details>
+  
+<details closed>
+  <summary><b>Statistical Predictors of COVID Spread</b></summary>
 
 >**Course**: Statistics _w203_
 >
@@ -140,7 +163,7 @@ _Projects are presented in reverse chronological order_
 >- [Final Report](./w203_Project.pdf)
 >- [In Class Summary Presentation](https://docs.google.com/presentation/d/1xJpYPKkazOr8IM1xMFv4CBWi3FAJ-3bqTr4Sf8Qi3SA/edit?usp=sharing)
 
-
+</details>
 
 <!--
 **blulightspecial/blulightspecial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
