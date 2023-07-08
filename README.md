@@ -1,14 +1,16 @@
 ## About Me
 
-I'm a recent graduate of UC Berkeley's Master in Data Science (MIDS) program. Currently I am working
-in MIDS as a Course Coordinator in the Statistics class and a TA in the Machine Learning at Scale class.
-Before joining MIDS I worked as a structural engineer designing bridges and other heavy infrastructure.
+I'm a Data Scientist and a graduate of UC Berkeley's Master in Data Science (MIDS) program. Currently I am working
+as a consulting Data Scientist for Austin Capital Data helping deliver insights for a variety of clients from 
+fortune 500 corporations to startups to the federal government. I'm also working part time as a Course Coordinator 
+in the MIDS Statistics class coordinating grading and lecturing on statistics concepts.
+Before going into Data Science, I worked as a structural engineer designing bridges and other heavy infrastructure.
 
 ## Projects
 
 In my time at MIDS I have had the opportunity to work on several very cool projects. Two of them are 
 on the way to being published in a journal. Most links here are public. Some are private to encourage
-academic honesty among my students. If you want access give me a ring and I can add you as a collaborator.
+academic honesty amongst my students. If you want access give me a ring and I can add you as a collaborator.
 
 _Projects are presented in reverse chronological order_
 
