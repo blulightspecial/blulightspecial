@@ -49,6 +49,7 @@ _Projects are presented in reverse chronological order_
 >**Technologies**: Python, Pandas, MQTT, Flask, YOLOv5, PyTorch
 > 
 >**Links**:
+>- [Link to article in PeerJ (peer reviewed academic journal)](https://peerj.com/articles/13779/)
 >- [Project Final Report White Paper](./w251_Project.pdf) 
 >- [Final Presentation Slide Deck](https://docs.google.com/spreadsheets/d/1QbOKtc-26bgDM_1j__oyO2pCDLuw4h7A2gqcthYPmN4/edit?skip_itp2_check=true#gid=0)
 >- [Blog Post on the Project from WildTracks](https://wildtrack.org/blog/)
